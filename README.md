@@ -6,6 +6,7 @@ Assignment 2 is missing because it is essentially a simpler version of A3, if I 
 
 
 *DISCLAIMER*
+
   These are not perfect projects and shouldn't be copied.
     McGill University's Engineering department uses code-plagiarism software to detect any copied code.
     
